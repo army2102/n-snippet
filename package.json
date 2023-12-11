@@ -1,0 +1,14 @@
+{
+  "name": "n-snippet",
+  "version": "1.0.0",
+  "description": "Snippet code for my personal use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "naetirat.s@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.470.0"
+  }
+}
